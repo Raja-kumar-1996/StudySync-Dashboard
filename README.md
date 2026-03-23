@@ -23,6 +23,20 @@
 
 This project demonstrates strong fundamentals in **frontend development**, **UI/UX design**, and **real-time data visualization**.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/dashboard.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="assets/analytics.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="assets/portfolio.png" width="800"/>
+</p>
+
 ---
 
 ## 🚀 Live Features
